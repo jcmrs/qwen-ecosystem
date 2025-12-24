@@ -1,0 +1,51 @@
+[submodule "UPSTREAM/utcp-specification"]
+	path = UPSTREAM/utcp-specification
+	url = https://github.com/universal-tool-calling-protocol/utcp-specification.git
+[submodule "UPSTREAM/python-utcp"]
+	path = UPSTREAM/python-utcp
+	url = https://github.com/universal-tool-calling-protocol/python-utcp.git
+[submodule "UPSTREAM/go-utcp"]
+	path = UPSTREAM/go-utcp
+	url = https://github.com/universal-tool-calling-protocol/go-utcp.git
+[submodule "UPSTREAM/rs-utcp"]
+	path = UPSTREAM/rs-utcp
+	url = https://github.com/universal-tool-calling-protocol/rs-utcp.git
+[submodule "UPSTREAM/typescript-utcp"]
+	path = UPSTREAM/typescript-utcp
+	url = https://github.com/universal-tool-calling-protocol/typescript-utcp.git
+[submodule "UPSTREAM/elixir-utcp"]
+	path = UPSTREAM/elixir-utcp
+	url = https://github.com/universal-tool-calling-protocol/elixir-utcp.git
+[submodule "UPSTREAM/utcp-agent"]
+	path = UPSTREAM/utcp-agent
+	url = https://github.com/universal-tool-calling-protocol/utcp-agent.git
+[submodule "UPSTREAM/utcp-mcp"]
+	path = UPSTREAM/utcp-mcp
+	url = https://github.com/universal-tool-calling-protocol/utcp-mcp.git
+[submodule "UPSTREAM/utcp-examples"]
+	path = UPSTREAM/utcp-examples
+	url = https://github.com/universal-tool-calling-protocol/utcp-examples.git
+[submodule "UPSTREAM/langchain-utcp-adapters"]
+	path = UPSTREAM/langchain-utcp-adapters
+	url = https://github.com/universal-tool-calling-protocol/langchain-utcp-adapters.git
+[submodule "UPSTREAM/pydantic-ai-utcp"]
+	path = UPSTREAM/pydantic-ai-utcp
+	url = https://github.com/universal-tool-calling-protocol/pydantic-ai-utcp.git
+[submodule "UPSTREAM/strands-utcp"]
+	path = UPSTREAM/strands-utcp
+	url = https://github.com/universal-tool-calling-protocol/strands-utcp.git
+[submodule "UPSTREAM/code-mode"]
+	path = UPSTREAM/code-mode
+	url = https://github.com/universal-tool-calling-protocol/code-mode.git
+[submodule "UPSTREAM/chat-utcp"]
+	path = UPSTREAM/chat-utcp
+	url = https://github.com/universal-tool-calling-protocol/chat-utcp.git
+[submodule "UPSTREAM/go-utcp-mcp-bridge"]
+	path = UPSTREAM/go-utcp-mcp-bridge
+	url = https://github.com/universal-tool-calling-protocol/go-utcp-mcp-bridge.git
+[submodule "UPSTREAM/benchmarks"]
+	path = UPSTREAM/benchmarks
+	url = https://github.com/universal-tool-calling-protocol/benchmarks.git
+[submodule "UPSTREAM/agent-implementation-example"]
+	path = UPSTREAM/agent-implementation-example
+	url = https://github.com/universal-tool-calling-protocol/agent-implementation-example.git
