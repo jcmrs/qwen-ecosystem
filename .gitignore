@@ -241,8 +241,16 @@ UPSTREAM/
 
 # UTCP-KB directory
 .utcp-kb/
-# Track the directory structure but not temporary processing files
-!*.json
+# Track the directory structure but not temporary processing files and large data files
+.utcp-kb/**/*.json
+.utcp-kb/**/*.bin
+.utcp-kb/**/*.dat
+.utcp-kb/**/*.pkl
+.utcp-kb/**/embeddings/
+.utcp-kb/**/indexes/
+.utcp-kb/**/processed-knowledge/
+.utcp-kb/**/raw-extractions/
+.utcp-kb/**/ai-optimized/
 !*.md
 
 # Bootstrap directory
